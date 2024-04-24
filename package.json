@@ -1,0 +1,15 @@
+{
+  "name": "frontend-mvvm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.2.10"
+  }
+}
